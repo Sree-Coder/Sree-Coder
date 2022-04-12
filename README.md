@@ -1,5 +1,5 @@
 <img align="center" src="https://scontent.fmaa14-1.fna.fbcdn.net/v/t1.6435-9/206768297_265939861971861_3917917466954214749_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=y3p9ahxwUwAAX8RFGnW&_nc_oc=AQkfB4JOyY8chJybo-ew6WNYTEsZSUsjm76ESr07U-gsYN9RmKsYLWctkGJp6gAw3Pt4XNdFvjHX-pirlzvg1qqv&_nc_ht=scontent.fmaa14-1.fna&oh=00_AT_8RHmaRFP5sZ-i-zSBe4RU6YcaYKU-Y6i1Ah_cAP4rUQ&oe=6279C6D2" alt="sree-coder" />
-<h1 align="center">Hi 👋, I'm Sree Devi..You can call me Sree!!</h1>
+<h1 align="center">Hi 👋, I'm Sree Devi..Just call me Sree!!</h1>
 <h3 align="center"> <h3>
 <h3 align="center">A passionate frontend developer from India</h3>
 
