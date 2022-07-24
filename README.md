@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Android, Front End Development**
+- 💬 Ask me about **Front End Development**
 
 - 📫 How to reach me **sreedevientrepreneur19@gmail.com**
 
